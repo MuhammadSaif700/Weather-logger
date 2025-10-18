@@ -1,6 +1,6 @@
 # ☁️ Weather Onchain Logger with AI
 
-**A blockchain-powered weather logging application with intelligent AI features**
+**A weather logging application with intelligent AI features**
 
 ## 🌟 Overview
 
@@ -223,6 +223,11 @@ The frontend can be deployed to any static hosting service:
 - **GitHub Pages**: Enable in repository settings
 
 ---
+## Demo 
+
+## 🎥 Demo
+
+[![Watch the video](demo-thumbnail.png)](https://github.com/user-attachments/assets/a6b520fd-8f42-4be6-82c1-c9c6a95d6c2d)
 
 ## 🤝 Contributing
 
@@ -259,8 +264,4 @@ Special thanks to:
 
 ---
 
-**Experience the future of weather data with AI-powered insights!** 🌤️🤖
-
----
-
-*Last updated: December 2024*
+**Experience the future of weather data with AI-powered insights!**
