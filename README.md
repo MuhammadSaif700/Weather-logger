@@ -1,45 +1,34 @@
-# ☁️ Weather Onchain Logger with AI
+#  Weather  Logger with AI
 
-**A weather logging application with intelligent AI features**
-
-## 🌟 Overview
-Weather Onchain Logger allows you to:
-
-- Get real-time weather updates for any city.
-- Receive AI-generated predictions, clothing tips, and activity ideas based on current conditions.
-- Analyze weather trends with interactive charts that show temperature and precipitation patterns.
+##  Overview
+Weather logger is a web-based application that helps users check the weather of any city.
+The weatherlogger also provides an AI assistant that helps users get recommendations about the weather.
+Another valuable thing is that users can see the weather in graph patterns, which helps users to be aware of the weather.
 ---
 
-## ✨ Key Features
+##  Key Features
+- It provides the temperature of any city.
+- It provides AI recommendations for users.
+- It provides weather patterns.
 
-### 🌍 Real-Time Weather Data
-- OpenWeatherMap API
-- City search with autocomplete
-- Temperature, humidity, pressure, wind & icons
-
-### 🤖 AI Weather Assistant
-
-- Predictions & activity suggestions
-- Clothing recommendations
-- Ask any weather-related questions
-
----
-
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend 
+
 - HTML
 - CSS  
-- TailwindCSS
-- Chart.js
+
+### Backend
+
+- Solidity
 - JS
-### APIs
+- node
 
-- OpenWeatherMap, Geolocation API
+## API 
 
----
+- Openweathermap API
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js
@@ -49,7 +38,7 @@ Weather Onchain Logger allows you to:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/weather-logger.git
+   git clone https://github.com/MuhammadSaif700/Weather-logger
    cd weather-logger
    ```
 
@@ -66,40 +55,25 @@ Weather Onchain Logger allows you to:
    ```
 
 4. **Access the Application**
+
    - Open your browser and navigate to `http://localhost:3000`
-   - The application will load with the weather input interface
 
----
+##  How to Use
 
-## 🎯 How to Use
-
-### Basic Weather Lookup
-
-1.Enter a city → select suggestion
-
+1. Enter a city → select suggestion
 2. Click Get Weather
-3. View background animations + weather stats
-4. Use AI assistant to:
-
-Get predictions
-
-Ask “What should I wear?”
-
-Check activity suitability
-
-Analyze patterns
-
----
-
-## 🚀 Deployment
-You can host the frontend on:
-
-- Netlify
-- Vercel
-- GitHub Pages
+3. Use AI assistant to get predictions
 
 ## 🎥 Demo
 
 [![Watch the video](demo-thumbnail.png)](https://github.com/user-attachments/assets/a6b520fd-8f42-4be6-82c1-c9c6a95d6c2d)
 
-**Experience the future of weather data with AI-powered insights!**
+
+## Deployment
+
+- Netlify
+
+## Contributing
+- Please feel free to contribute.
+
+**Weather logger**
