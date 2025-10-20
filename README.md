@@ -4,7 +4,6 @@
 Weather logger is a web-based application that helps users check the weather of any city.
 The weatherlogger also provides an AI assistant that helps users get recommendations about the weather.
 Another valuable thing is that users can see the weather in graph patterns, which helps users to be aware of the weather.
----
 
 ##  Key Features
 - It provides the temperature of any city.
@@ -49,9 +48,8 @@ Another valuable thing is that users can see the weather in graph patterns, whic
 
 3. **Start the Application**
    ```bash
-   # Serve the frontend
    npx serve frontend
-   # Or simply open frontend/index.html in your browser
+   browser
    ```
 
 4. **Access the Application**
