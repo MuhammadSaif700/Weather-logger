@@ -13,18 +13,15 @@ Another valuable thing is that users can see the weather in graph patterns, whic
 ##  Technology Stack
 
 ### Frontend 
-
 - HTML
 - CSS  
 
 ### Backend
-
 - Solidity
 - JS
 - node
 
 ## API 
-
 - Openweathermap API
 
 ##  Getting Started
@@ -57,7 +54,6 @@ Another valuable thing is that users can see the weather in graph patterns, whic
    - Open your browser and navigate to `http://localhost:3000`
 
 ##  How to Use
-
 1. Enter a city → select suggestion
 2. Click Get Weather
 3. Use AI assistant to get predictions
@@ -68,7 +64,6 @@ Another valuable thing is that users can see the weather in graph patterns, whic
 
 
 ## Deployment
-
 - Netlify
 
 ## Contributing
